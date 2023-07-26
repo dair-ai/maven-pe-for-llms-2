@@ -50,6 +50,8 @@ class ChatWrapper:
 
 chat = ChatWrapper()
 
+
+
 block = gr.Blocks(css=".gradio-container {background-color: #0e1f27}")
 
 with block:
